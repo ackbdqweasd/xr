@@ -16,11 +16,11 @@
             "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
         },
         "CONFIGCADDY": {
-            "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
+            "description": "自定义网络地址读取配置运行CADDY",
             "value": "https://raw.githubusercontent.com/ackbdqweasd/xr/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
-            "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
+            "description": "自定义网络地址读取",
             "value": "https://raw.githubusercontent.com/ackbdqweasd/xr/main/etc/xray.json"
         },
         "ParameterSSENCYPT": {
